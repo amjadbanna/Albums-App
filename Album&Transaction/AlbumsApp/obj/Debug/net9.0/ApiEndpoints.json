@@ -1,0 +1,193 @@
+[
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumsApiController",
+    "Method": "PostReview",
+    "RelativePath": "{id}/reviews",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "AlbumsApp.Models.ReviewInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumController",
+    "Method": "GetAlbumById",
+    "RelativePath": "album/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumController",
+    "Method": "AddNewAlbum",
+    "RelativePath": "albums",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Genres",
+        "Type": "System.Collections.Generic.ICollection\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Albums",
+        "Type": "System.Collections.Generic.ICollection\u00601[[AlbumsApp.Entities.Album, AlbumsApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ActiveGenre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Artist",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Year",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Genre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.CoverImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RandomAlbum.Reviews",
+        "Type": "System.Collections.Generic.List\u00601[[AlbumsApp.Entities.Review, AlbumsApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Artist",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Year",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Genre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.CoverImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewAlbum.Reviews",
+        "Type": "System.Collections.Generic.List\u00601[[AlbumsApp.Entities.Review, AlbumsApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumController",
+    "Method": "GetAlbums",
+    "RelativePath": "albums/{genre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumsApiController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/albums",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumsApiController",
+    "Method": "GetMovieById",
+    "RelativePath": "api/albums/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumsApp.Controllers.AlbumsApiController",
+    "Method": "GetReviewsByMovieId",
+    "RelativePath": "api/albums/{id}/reviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

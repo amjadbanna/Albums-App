@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\models\\transactioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\models\\transactioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\transactionrecordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\transactionrecordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\albumsapp\\controllers\\albumsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|solutionrelative:albumsapp\\controllers\\albumsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\albumsapp\\models\\reviewinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|solutionrelative:albumsapp\\models\\reviewinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\albumsapp\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E614F997-CD97-4C36-AD90-DEF640CF5B7F}|AlbumsApp\\AlbumsApp.csproj|solutionrelative:albumsapp\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|c:\\users\\prema\\onedrive\\escritorio\\portfolio\\assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\transactionrecordapp\\migrations\\20251201045123_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5051B86C-C7DF-494B-B915-77CC1D7B72B8}|TransactionRecordApp\\TransactionRecordApp.csproj|solutionrelative:transactionrecordapp\\migrations\\20251201045123_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:06:00.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:05:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Program.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\User.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:04:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:04:42.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:04:42.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251201045123_AddIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Migrations\\20251201045123_AddIdentitySchema.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Migrations\\20251201045123_AddIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Migrations\\20251201045123_AddIdentitySchema.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Migrations\\20251201045123_AddIdentitySchema.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionContext.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\TransactionContext.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Models\\TransactionContext.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Models\\TransactionContext.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Models\\TransactionContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwGwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\Account\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\LogIn.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\Account\\LogIn.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:04:42.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "TransactionRecordApp\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T03:04:42.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRecordApp.csproj",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\TransactionRecordApp.csproj",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\TransactionRecordApp.csproj",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\TransactionRecordApp.csproj",
+              "RelativeToolTip": "TransactionRecordApp\\TransactionRecordApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T03:04:42.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TransactionRecordApp\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\TransactionRecordApp\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TransactionRecordApp\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlbumsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Controllers\\AlbumsApiController.cs",
+              "RelativeDocumentMoniker": "AlbumsApp\\Controllers\\AlbumsApiController.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Controllers\\AlbumsApiController.cs",
+              "RelativeToolTip": "AlbumsApp\\Controllers\\AlbumsApiController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Models\\ReviewInputModel.cs",
+              "RelativeDocumentMoniker": "AlbumsApp\\Models\\ReviewInputModel.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Models\\ReviewInputModel.cs",
+              "RelativeToolTip": "AlbumsApp\\Models\\ReviewInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "AlbumsApp\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\prema\\OneDrive\\Escritorio\\Portfolio\\Assignment 4\\asst4-starting-code-n-snippets\\asst4-starting-code\\AlbumsApp\\Entities\\Review.cs",
+              "RelativeToolTip": "AlbumsApp\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:04:42.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

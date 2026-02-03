@@ -1,0 +1,205 @@
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.staticwebassets.runtime.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.staticwebassets.endpoints.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.exe
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.deps.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.runtimeconfig.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\AlbumsApp.pdb
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.AssemblyReference.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.AssemblyInfoInputs.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.AssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.CoreCompileInputs.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.RazorAssemblyInfo.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.RazorAssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.sourcelink.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\scopedcss\bundle\AlbumsApp.styles.css
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\scopedcss\projectbundle\AlbumsApp.bundle.scp.css
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\714t5v1r6s-oq8r4nbcb2.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\0yqaj51xwm-61n19gt1b8.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\zsnlj5a4uh-6b9nfc4n3r.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\b5wmy6q5c7-agp80tu62r.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\iam849c2ht-st1cbwfwo5.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\2rjs9ifqtc-unj9p35syc.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\4nrgmwd89o-5vj65cig9w.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\zg0y5o0wze-q2ku51ktnl.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\n06regpmbp-2q4vfeazbq.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\1xiefeocw2-n1oizzvkh6.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\kclh64v7zh-o371a8zbv2.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\0wazno4ynw-7na4sro3qu.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\lt0nnzoppi-jeal3x0ldm.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\umetfhangp-f8imaxxbri.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\ohumpfnvpo-okkk44j0xs.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\tehjif5rim-0wve5yxp74.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\hw75bepmwa-cwzlr5n8x4.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\3oh9uosebe-npxfuf8dg6.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\966jwxkvs3-wmug9u23qg.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\u1zenqnj7o-tey0rigmnh.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\h77tzzjm4u-j75batdsum.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\ejijif5n1s-16095smhkz.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\1c51zzgar0-vy0bq9ydhf.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\cvey7u8oz6-b4skse8du6.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\0mghoas4xj-ab1c3rmv7g.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\f3l1cfxcv9-u3xrusw2ol.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\ln5u04t68a-56d2bn4wt9.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\nlwypq7xwy-mpyigms19s.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\bd15u6daam-73kdqttayv.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\womicqgsxy-bpk8xqwxhs.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\a4w9f3nffm-8inm30yfxf.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\crguw270ck-ve6x09088i.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\disf1nfm9c-4gxs3k148c.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\azunku0b4y-9b9oa1qrmt.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\zdfm0zh1c7-fctod5rc9n.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\zw0s30lgts-l2av4jpuoj.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\er7kebru56-kbynt5jhd9.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\8dfisp0pc0-25iw1kog22.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\vjl9c9ssi0-c2nslu3uf3.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\47sppzsb9g-m39kt2b5c9.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\8f27hxfq0b-2lgwfvgpvi.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\323x0xf8ll-um2aeqy4ik.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\ip25xmdwds-wsezl0heh6.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\xn90qoa0tv-o4kw7cc6tf.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\65x86bjc9t-6ukhryfubh.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\nf6u7a0aby-zwph15dxgs.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\ot1d0ahtu8-u33ctipx7g.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\d577dy892b-0td7jq9nxb.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\aq281lf3k1-zsyoy62yqm.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\iuq9yy8kq9-wqejeusuyq.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\0a0kl6v9d4-wus95c49fh.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\i8h61smoym-sjab29p8z5.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\9qg8bvzfzb-jdpnbaa6vo.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\l5jjkod5fa-59qolqi738.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\hebr00q1a3-x0q3zqp4vz.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\18695cw8eg-vwa26bmbsk.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\mdp4m1k1fa-5trh6b1mit.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\4su3388scu-dsw5v3fbc5.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\wlgtgalgnq-afgyafcsqt.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\9skdju8a39-k3ercl4udg.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\compressed\koxw7s0qbp-k3ercl4udg.gz
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.Up2Date
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\refint\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.pdb
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\AlbumsApp.genruntimeconfig.cache
+C:\Users\prema\OneDrive\Escritorio\Conestoga\3rd Semester\C# ASP.NET\asst4-starting-code-n-snippets\asst4-starting-code\AlbumsApp\obj\Debug\net9.0\ref\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.staticwebassets.runtime.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.staticwebassets.endpoints.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.exe
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.deps.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.runtimeconfig.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\AlbumsApp.pdb
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.AssemblyReference.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.AssemblyInfoInputs.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.AssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.CoreCompileInputs.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.RazorAssemblyInfo.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.RazorAssemblyInfo.cs
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.sourcelink.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\scopedcss\bundle\AlbumsApp.styles.css
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\scopedcss\projectbundle\AlbumsApp.bundle.scp.css
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\vf21zozxkp-{0}-oq8r4nbcb2-oq8r4nbcb2.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\cefn19bj59-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\n3ad7vim30-{0}-6b9nfc4n3r-6b9nfc4n3r.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\cdtqs6pyry-{0}-agp80tu62r-agp80tu62r.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\2f5sha1isc-{0}-st1cbwfwo5-st1cbwfwo5.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\lx5hbfbk8r-{0}-unj9p35syc-unj9p35syc.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\wr4g6i3c28-{0}-5vj65cig9w-5vj65cig9w.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\61p72oux69-{0}-q2ku51ktnl-q2ku51ktnl.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\r2pqp1y8v7-{0}-2q4vfeazbq-2q4vfeazbq.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\n3ydfk0vn9-{0}-n1oizzvkh6-n1oizzvkh6.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\owvgemyfvg-{0}-o371a8zbv2-o371a8zbv2.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\4u1voks5n7-{0}-7na4sro3qu-7na4sro3qu.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\o6fr5s6o15-{0}-jeal3x0ldm-jeal3x0ldm.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\8s7tn142h5-{0}-f8imaxxbri-f8imaxxbri.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\mcwmzh4toq-{0}-okkk44j0xs-okkk44j0xs.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\wes7aba3yy-{0}-0wve5yxp74-0wve5yxp74.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\m2cw06bj4y-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\gr0ew7tpfx-{0}-npxfuf8dg6-npxfuf8dg6.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\5k1jghoiyt-{0}-wmug9u23qg-wmug9u23qg.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\ap7qxgdoij-{0}-tey0rigmnh-tey0rigmnh.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\kyg3swo3fa-{0}-j75batdsum-j75batdsum.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\0fmw6sa493-{0}-16095smhkz-16095smhkz.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\39402isgr1-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\6akvqab04j-{0}-b4skse8du6-b4skse8du6.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\l75xbtd5xf-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\fdf4cx494b-{0}-u3xrusw2ol-u3xrusw2ol.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\suvobpiuxl-{0}-56d2bn4wt9-56d2bn4wt9.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\xr08is4dfo-{0}-mpyigms19s-mpyigms19s.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\9bedqa6jal-{0}-73kdqttayv-73kdqttayv.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\yfthqusqmz-{0}-bpk8xqwxhs-bpk8xqwxhs.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\jfulz15mwq-{0}-8inm30yfxf-8inm30yfxf.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\8lu1te87gr-{0}-ve6x09088i-ve6x09088i.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\whrz40slh5-{0}-4gxs3k148c-4gxs3k148c.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\jnlpmcvhyy-{0}-9b9oa1qrmt-9b9oa1qrmt.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\6bztey8w8l-{0}-fctod5rc9n-fctod5rc9n.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\3kp6unli66-{0}-l2av4jpuoj-l2av4jpuoj.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\0w4v0p21hz-{0}-kbynt5jhd9-kbynt5jhd9.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\se3yhzuuq8-{0}-25iw1kog22-25iw1kog22.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\ktkh0zrs3k-{0}-c2nslu3uf3-c2nslu3uf3.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\ocawm7krkn-{0}-m39kt2b5c9-m39kt2b5c9.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\clop803vqs-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\uzb6ugggxl-{0}-um2aeqy4ik-um2aeqy4ik.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\qgw7cdd3z8-{0}-wsezl0heh6-wsezl0heh6.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\rr7mdp0yff-{0}-o4kw7cc6tf-o4kw7cc6tf.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\752qymeyuj-{0}-6ukhryfubh-6ukhryfubh.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\goe7se8smg-{0}-zwph15dxgs-zwph15dxgs.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\olpdiasdpe-{0}-u33ctipx7g-u33ctipx7g.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\xhoum4w3e7-{0}-0td7jq9nxb-0td7jq9nxb.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\hknuf06dmt-{0}-zsyoy62yqm-zsyoy62yqm.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\siyiwf8gz6-{0}-wqejeusuyq-wqejeusuyq.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\mwtxytkuwr-{0}-wus95c49fh-wus95c49fh.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\huqvxyw2y5-{0}-sjab29p8z5-sjab29p8z5.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\13rn5yeej1-{0}-jdpnbaa6vo-jdpnbaa6vo.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\cq5l2glb5x-{0}-59qolqi738-59qolqi738.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\lccbe1a9o9-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\ibnvlc1p6b-{0}-vwa26bmbsk-vwa26bmbsk.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\h3k87os5n2-{0}-5trh6b1mit-5trh6b1mit.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\zupn6zv0y1-{0}-dsw5v3fbc5-dsw5v3fbc5.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\d00cbco531-{0}-afgyafcsqt-afgyafcsqt.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\20fk7g7nkd-{0}-fr9gvwi2cs-fr9gvwi2cs.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\compressed\ghz3cz1tj8-{0}-fr9gvwi2cs-fr9gvwi2cs.gz
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.csproj.Up2Date
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\refint\AlbumsApp.dll
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.pdb
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\AlbumsApp.genruntimeconfig.cache
+C:\Users\prema\OneDrive\Escritorio\Portfolio\TransactionRecordApp\TransactionApp\AlbumsApp\obj\Debug\net9.0\ref\AlbumsApp.dll
